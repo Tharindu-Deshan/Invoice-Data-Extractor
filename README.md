@@ -11,9 +11,7 @@ Python 3.x
 Required Python packages:
 
 python-docx
-
 docx2txt
-
 pandas
 
 pip install pdf2do(For PDF to docx conversion)
