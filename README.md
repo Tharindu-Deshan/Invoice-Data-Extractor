@@ -7,10 +7,15 @@ This project is designed to extract invoice details such as the invoice number a
 Requirements
 
 Python 3.x
+
 Required Python packages:
+
 python-docx
+
 docx2txt
+
 pandas
+
 pip install pdf2do(For PDF to docx conversion)
 
 
